@@ -1147,7 +1147,7 @@ h2.footnotes{
 }
 #table-of-contents h2 {
     z-index:1001;
-    background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
+   /*background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);*/
     font-size:36px;
     font-family:"myFirstFont";
     text-align:center
