@@ -4,8 +4,7 @@
 }
 #table-of-contents h2 {
     z-index:1001;
-    /*background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);*/
-    backgroud:red;
+    background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
     font-size:36px;
     font-family:"myNovaFont";
     text-align:center;
