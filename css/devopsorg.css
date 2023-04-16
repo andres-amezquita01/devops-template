@@ -1159,3 +1159,6 @@ pre.src{
 * {
     font-family:"myFirstFont";
 }
+* p {
+ font-family: OpenSans,Helvetica,Arial,sans-serif;
+}
