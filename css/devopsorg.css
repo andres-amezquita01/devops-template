@@ -1165,7 +1165,7 @@ pre.src{
  font-family: OpenSans,Helvetica,Arial,sans-serif;
 }
 
-* a {
+a {
     display: flex;
     justify-content: center;
     align-items: center;
