@@ -1157,7 +1157,7 @@ pre.src{
     background:#343131;color:white;
 }
 * {
-    font-family:"myFirstFont";
+    font-family:"myFirstFont", sans-serif;
 }
 * p {
  font-family: OpenSans,Helvetica,Arial,sans-serif;
