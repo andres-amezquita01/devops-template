@@ -1,4 +1,14 @@
-
+@font-face {
+    font-family:myFirstFont;
+    src:url(nova.woff2);
+}
+#table-of-contents h2 {
+    z-index:1001;
+    background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
+    font-size:36px;
+    font-family:"myFirstFont";
+    text-align:center
+}
 pre.src{
     background:#343131;color:white;
 }
