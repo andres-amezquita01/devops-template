@@ -21,3 +21,23 @@ pre.src{
 * li {
  font-family: OpenSans,Helvetica,Arial,sans-serif;
 }
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 242px;
+    min-height: 58px;
+    padding: 10px 20px;
+    color: #000;
+    font-weight: 800;
+    font-size: 14px;
+    font-family: "ProximaNova",sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: transparent;
+    border: 2px solid #111;
+    cursor: pointer;
+    transition: ease .15s;
+}
