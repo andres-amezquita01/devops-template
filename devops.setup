@@ -1,7 +1,5 @@
 # -*- mode: org; -*-
 
-#+OPTIONS: html-style:nil #+HTML_HEAD: #+HTML_HEAD:
-
 #+OPTIONS: html-style:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://devops-template.vercel.app/css/custom.css"/>
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://devops-template.vercel.app/css/devopsorg.css"/>
