@@ -7,7 +7,8 @@
     background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
     font-size:36px;
     font-family:"myNovaFont";
-    text-align:center
+    text-align:center;
+    text-transform: uppercase;
 }
 pre.src{
     background:#343131;color:white;
