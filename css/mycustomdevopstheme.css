@@ -49,7 +49,7 @@ pre.src{
 * th {
     background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
 }
-#example {
+.example {
     background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
 }
 
