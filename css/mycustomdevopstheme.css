@@ -50,5 +50,5 @@ pre.src{
     background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
 }
 * a {
-    background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
+    color:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
 }
