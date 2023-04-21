@@ -42,4 +42,7 @@ pre.src{
     cursor: pointer;
     transition: ease .15s;
 }*/
+* td {
+     font-family: OpenSans,Helvetica,Arial,sans-serif;
+}
 
