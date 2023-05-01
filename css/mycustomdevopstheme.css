@@ -72,3 +72,11 @@ pre.src{
     opacity: 0.7;
     z-index: 10;
 }
+#table-of-contents{
+    z-index:1001;
+    background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
+    font-size:36px;
+    font-family:"myNovaFont";
+    text-align:center;
+    text-transform: uppercase;
+}
