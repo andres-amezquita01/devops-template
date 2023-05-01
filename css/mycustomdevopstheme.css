@@ -54,8 +54,6 @@ pre.src{
     background: #343131;;
     color: white;
 }
-
-@media screen and (max-width: 768px)
 #toggle-sidebar h2 {
     font-family:"myNovaFont", sans-serif;
     background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
