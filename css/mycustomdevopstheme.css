@@ -18,7 +18,7 @@ pre.src{
 }
 * p {
  font-family: OpenSans,Helvetica,Arial,sans-serif;
- display: flex;
+ display: none;
  justify-content: center;
 }
 * li {
