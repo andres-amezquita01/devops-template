@@ -18,7 +18,8 @@ pre.src{
 }
 * p {
  font-family: OpenSans,Helvetica,Arial,sans-serif;
-  justify-content: center
+ display: flex;
+ justify-content: center;
 }
 * li {
  font-family: OpenSans,Helvetica,Arial,sans-serif;
