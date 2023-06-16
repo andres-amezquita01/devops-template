@@ -54,7 +54,7 @@ pre.src{
     background: #343131;;
     color: white;
 }
-/* #toggle-sidebar h2 {
+#toggle-sidebar h2 {
     font-family:"myNovaFont", sans-serif;
     background-image:linear-gradient(to left, #14DFEA 0,#3fc12a 100%);
     width: 100%;
@@ -69,4 +69,4 @@ pre.src{
     padding: 0;
     opacity: 0.7;
     z-index: 10;
-} */
+}
